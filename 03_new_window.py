@@ -26,8 +26,6 @@ for handle in all_handles:
         break
 
 
-
-
 driver.find_element_by_id('ww').send_keys('new window')
 
 
